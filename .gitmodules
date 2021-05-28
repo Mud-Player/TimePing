@@ -1,0 +1,3 @@
+[submodule "SchedulerLib"]
+	path = SchedulerLib
+	url = https://github.com/Mud-Player/SchedulerLib.git
